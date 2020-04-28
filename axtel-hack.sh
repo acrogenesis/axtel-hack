@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo "+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+"
-echo "|A|i|r|c|r|a|c|k| |A|u|t|o|m|a|t|e|d|"
+echo "|A|x|t|e|l| |C|r|a|c|k| |A|u|t|o|m|a|t|e|d|"
 echo "+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+"
 echo
 echo Enter Interface Name:
