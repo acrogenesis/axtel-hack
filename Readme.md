@@ -6,5 +6,5 @@
 
 ## How it works:
 
-Axtel passwords are 8 alphanumeric characeters which last 4 are always the last 4 of the SSID's (eg: AXTEL XTREMO-D43B).
+Axtel passwords are 8 alphanumeric characters which last 4 are always the last 4 of the SSID's (eg: AXTEL XTREMO-D43B).
 Uses `airmon-ng`, `airodump-ng`, and `crunch`. Make sure you have them installed beforehand.
